@@ -1,0 +1,23 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "front-end  developer test task",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iryska16/TestTask.git"
+  },
+  "author": "Iryna Kostiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iryska16/TestTask/issues"
+  },
+  "homepage": "https://github.com/Iryska16/TestTask#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
